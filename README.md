@@ -56,5 +56,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 - Report issues on the [GitHub issue tracker][link-github-issues]
 
 <!-- Links -->
-[link-github-issues]: https://github.com/RUTILEA/SDTest/issues
+[link-github-issues]: https://github.com/RUTILEA/shibata-kun/issues
 [link-rutilea]: https://rutilea.com/
